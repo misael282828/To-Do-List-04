@@ -106,9 +106,10 @@ button {
     }
 
 
-    
-
 }
+
+
+
 
 #new-task-input::placeholder {
     color: var(--gray);
