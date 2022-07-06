@@ -109,8 +109,6 @@ button {
 }
 
 
-
-
 #new-task-input::placeholder {
     color: var(--gray);
 
@@ -216,7 +214,7 @@ main {
     background-image: linear-gradient(to right, var(--pink), var(--purple));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    
+
 }
 
 .task .actions .delete {
